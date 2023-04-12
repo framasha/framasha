@@ -22,7 +22,7 @@ I'm a self-taught passionate Full Stack Developer & DevSecOps Engineer from Keny
 
 - ❤️ I love writing in Python and Hacking for fun
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust & Advancing my AWS skills
 
 - 💬 Ask me about anything [here](https://twitter.com/framasharia)
 
