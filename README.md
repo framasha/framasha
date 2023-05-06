@@ -56,7 +56,7 @@ Here are some ideas to get you started:
  ![alt text](https://github.com/framasha/framasha/blob/main/1_Hacker_Rank_badges-removebg-preview.png) -->
  
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=framasha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="framasha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=framasha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="framasha" /> </p>
 	
 ##### WakaTime Total Coding Time:
 <a href="https://wakatime.com/@framasha" title="Data update every midnight"><img src="https://wakatime.com/badge/user/d2a22b7d-6c91-4b2d-bf0f-15426554e7ca.svg?style=social" alt="Wakatime weekly coding activity Tracker" /></a>
