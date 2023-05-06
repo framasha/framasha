@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=framasha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="framasha" /> </p>
 	
 ##### WakaTime Total Coding Time:
-<a href="https://wakatime.com/@framasha" title="Data update every midnight"><img src="https://wakatime.com/badge/user/6a1afd30-2c0e-4378-86f8-281e436907a4.svg?style=social" alt="Wakatime weekly coding activity Tracker" /></a>
+<a href="https://wakatime.com/@framasha" title="Data update every midnight"><img src="https://wakatime.com/badge/user/d2a22b7d-6c91-4b2d-bf0f-15426554e7ca.svg?style=social" alt="Wakatime weekly coding activity Tracker" /></a>
 
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
