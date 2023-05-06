@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ujjwal Chowdhury</h1>
+<h1 align="center">Hi 👋, I'm Francis Macharia</h1>
 
 
 <p align="center">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything [here](https://twitter.com/framasharia)
 
-### Github Stats  
+<!-- ### Github Stats  
 <div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=framasha&theme=github_dark" align="left" style="width: 47%"/></div>  
  
  <div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=framasha&theme=2077" align="left" style="width: 47%"/></div> 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=framasha&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"  style="width: 80%" />
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=framasha&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"  style="width: 80%" /> -->
 
 
  
@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=framasha&layout=compact&theme=vision-friendly-dark)] -->
 
- ### Hacker Rank Badges:
+<!--  ### Hacker Rank Badges:
  
- ![alt text](https://github.com/framasha/framasha/blob/main/1_Hacker_Rank_badges-removebg-preview.png)
+ ![alt text](https://github.com/framasha/framasha/blob/main/1_Hacker_Rank_badges-removebg-preview.png) -->
  
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=framasha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="framasha" /> </p>
