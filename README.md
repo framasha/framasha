@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Self-taught passionate Full Stack Developer;DevSecOps Engineer;I like coding or penetration testing on my free time;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
