@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Francis Macharia</h1>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Self-taught passionate Full Stack Developer;DevSecOps Engineer;I like coding or penetration testing on my free time;Nice+To+Meet+You+...)](https://git.io/typing-svg)
-
-
 **About me**
 
 - 💼 Freelance Full Stack Developer
 
-- ❤️ I love writing in Python and Hacking for fun
+- 💼 DevSecOps Engineer
+
+- ❤️ I love coding or penetration testing on my free time
 
 - 🌱 I’m currently learning Rust & Advancing my AWS skills
 
