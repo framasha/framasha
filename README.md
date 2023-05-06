@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Francis Macharia</h1>
 
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Self-taught passionate Full Stack Developer;DevSecOps Engineer;I like coding or penetration testing on my free time;Nice+To+Meet+You+...)](https://git.io/typing-svg)
-</p>
+
 
 **About me**
 
